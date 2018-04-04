@@ -1,2 +1,2 @@
-# RegexAnalyzer
-Roslyn Code Analyzer
+# RegExDiagnosticAnalyzer
+Diagnostic Analyzer project

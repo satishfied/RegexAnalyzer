@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexAnalyzer", "RegexAnalyzer\RegexAnalyzer\RegexAnalyzer.csproj", "{B9FC60E0-7D0A-4920-A387-AA3EBF16F1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexAnalyzer.Test", "RegexAnalyzer\RegexAnalyzer.Test\RegexAnalyzer.Test.csproj", "{C523098D-FB4E-44A7-95FE-4D662BCC83C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexAnalyzer.Vsix", "RegexAnalyzer\RegexAnalyzer.Vsix\RegexAnalyzer.Vsix.csproj", "{88FC5A5F-F1CA-427D-A645-96C4CFB687E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FC60E0-7D0A-4920-A387-AA3EBF16F1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FC60E0-7D0A-4920-A387-AA3EBF16F1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FC60E0-7D0A-4920-A387-AA3EBF16F1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FC60E0-7D0A-4920-A387-AA3EBF16F1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C523098D-FB4E-44A7-95FE-4D662BCC83C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C523098D-FB4E-44A7-95FE-4D662BCC83C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C523098D-FB4E-44A7-95FE-4D662BCC83C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C523098D-FB4E-44A7-95FE-4D662BCC83C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FC5A5F-F1CA-427D-A645-96C4CFB687E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FC5A5F-F1CA-427D-A645-96C4CFB687E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FC5A5F-F1CA-427D-A645-96C4CFB687E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FC5A5F-F1CA-427D-A645-96C4CFB687E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5498C91-6235-476B-A4B2-886D25648001}
+	EndGlobalSection
+EndGlobal
